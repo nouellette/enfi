@@ -27,6 +27,8 @@ OPENAI_KEY=sk-proj-*********
 
 `npm start`
 
+`Open a browser and access by going to http://localhost:3000/`
+
 ## Run in development (hot reload)
 `npm run serve:ui`
 
