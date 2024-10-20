@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "Which symbol is not used in mathematics?",
+      "answers": ["+", "-", "&", "/"],
+      "answer": "&"
+    },
+    {
+      "question": "Which word does not have a vowel?",
+      "answers": ["Sky", "Apple", "Orange", "Eagle"],
+      "answer": "Sky"
+    },
+    {
+      "question": "In an SR latch built from NOR gates, which condition is not allowed?",
+      "answers": ["S=0, R=0", "S=0, R=1", "S=1, R=0", "S=1, R=1"],
+      "answer": "S=1, R=1"
+    },
+    {
+      "question": "Which of these is not a primary color?",
+      "answers": ["Red", "Green", "Blue", "Yellow"],
+      "answer": "Green"
+    }
+  ]
+}

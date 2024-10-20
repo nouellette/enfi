@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "What does not end a sentence?",
+      "answers": [".", "?", "$", "!"],
+      "answer": "$"
+    },
+    {
+      "question": "Which of these is not a primary color?",
+      "answers": ["Red", "Green", "Blue", "Yellow"],
+      "answer": "Green"
+    },
+    {
+      "question": "Which is not a type of triangle?",
+      "answers": ["Equilateral", "Scalene", "Pentagonal", "Isosceles"],
+      "answer": "Pentagonal"
+    },
+    {
+      "question": "What does not belong in the set?",
+      "answers": ["Dog", "Cat", "Fish", "Car"],
+      "answer": "Car"
+    },
+    {
+      "question": "Which symbol is not used in mathematics?",
+      "answers": ["+", "-", "&", "/"],
+      "answer": "&"
+    },
+    {
+      "question": "Which word does not have a vowel?",
+      "answers": ["Sky", "Apple", "Orange", "Eagle"],
+      "answer": "Sky"
+    },
+    {
+      "question": "Which is not a programming language?",
+      "answers": ["Python", "Ruby", "HTML", "C++"],
+      "answer": "HTML"
+    },
+    {
+      "question": "Which is not a fruit?",
+      "answers": ["Banana", "Apple", "Tomato", "Carrot"],
+      "answer": "Carrot"
+    },
+    {
+      "question": "Which animal cannot fly?",
+      "answers": ["Sparrow", "Penguin", "Eagle", "Butterfly"],
+      "answer": "Penguin"
+    },
+    {
+      "question": "Which of these is not a planet?",
+      "answers": ["Mars", "Venus", "Pluto", "Moon"],
+      "answer": "Moon"
+    }
+  ]
+}
