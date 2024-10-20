@@ -34,5 +34,8 @@ OPENAI_KEY=sk-proj-*********
 
 `npm run dev`
 
+## Linting
+`npm run lint`
+
 ## Test
 `npm run test`
